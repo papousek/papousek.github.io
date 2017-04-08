@@ -8,7 +8,7 @@ SITEURL = ''
 SITELOGO = 'images/papousek.jpeg'
 
 THEME = 'notmyidea'
-
+GOOGLE_ANALYTICS = 'UA-96989720-1'
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
